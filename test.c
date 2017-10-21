@@ -4,3 +4,6 @@
 int main(){
 	
 }
+void delay(){
+	
+}
